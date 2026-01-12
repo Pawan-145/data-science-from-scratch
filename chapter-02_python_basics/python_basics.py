@@ -1,3 +1,18 @@
+"""
+Chapter 2 - Python Basics for Data Science
+Author: Pawan Kumar Ray
+Book: Data Science from Scratch - Joel Grus
+
+This file contains practice code covering:
+- Python syntax
+- Data structures
+- Functions
+- OOP
+- Generators
+- Randomness
+- Type hints
+"""
+
 # Concept of Indentation 
 for i in [1,2,3,4,5]:
     print(i)                 # first line in "for i" block
