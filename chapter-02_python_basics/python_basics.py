@@ -1,7 +1,5 @@
 """
 Chapter 2 - Python Basics for Data Science
-Author: Pawan Kumar Ray
-Book: Data Science from Scratch - Joel Grus
 
 This file contains practice code covering:
 - Python syntax
