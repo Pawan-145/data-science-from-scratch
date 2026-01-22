@@ -19,6 +19,7 @@ mathematical and algorithmic understanding.
   - Batch Gradient Descent
   - Mini-Batch Gradient Descent
   - Stochastic Gradient Descent (SGD)
+  - Linear Regression using Gradient Descent
 ---
 
 ## ⚙️ Implementations
@@ -26,6 +27,7 @@ mathematical and algorithmic understanding.
 - Numerical derivative calculation
 - Gradient approximation using finite differences
 - Loss minimization using gradient descent
+- Linear regression model training
 ---
 
 ## 🎯 Learning Objective
@@ -42,7 +44,7 @@ This is the foundation of:
 
 ## 📂 Files
 
-- `ch8.ipynb` / `ch8.py`
+- `ch8_gradient_descent.ipynb`
 - `notes.md`
 - `results.md`
 
