@@ -4,7 +4,9 @@
 
 Use Gradient Descent to fit a linear regression model:
 
-y = slope × x + intercept
+y = slope * x + intercept
+
+It is same as y = mx + c,   here m = slope and c = intercept
 
 ---
 
