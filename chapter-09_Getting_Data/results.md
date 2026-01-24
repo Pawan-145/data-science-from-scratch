@@ -73,6 +73,4 @@ These are essential skills for:
 Strong understanding of **how raw data enters a data science system**.  
 Ready to move into modeling and algorithm chapters.
 
-➡ Starting **Chapter 10** next.
-
 ---
