@@ -22,6 +22,7 @@ Before building any machine learning model, data must be gathered and cleaned �
 - `README.md` → Chapter overview
 - `notes.md` → Theory + explanations
 - `results.md` → Outcomes and learnings
+- `secrets_template.json` → copy this template and paste in "secrets.json" file to store keys and token
 
 ---
 
