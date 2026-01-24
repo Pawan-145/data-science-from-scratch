@@ -45,9 +45,3 @@ These examples are kept for **learning API concepts**, not production use.
 
 ---
 
-## ✅ Status
-
-✔ Chapter Completed  
-➡ Moving to **Chapter 10**
-
----
