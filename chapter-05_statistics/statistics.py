@@ -5,6 +5,7 @@
 
 from typing import List
 num_friends = [100,55,66,75,32,75,23]
+daily_hours = [1.5, 2.0, 0.5, 3.0, 4.5, 2.5, 1.0, 2.2, 3.5, 0.8, 1.7, 2.8, 3.0, 1.2]
 # Mean
 def mean(xs: List[float])-> float:
     return sum(xs)/len(xs)
