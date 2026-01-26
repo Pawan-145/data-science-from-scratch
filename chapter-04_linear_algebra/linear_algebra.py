@@ -115,7 +115,7 @@ def get_column(A:Matrix,j:int)->Vector:
 from typing import Callable
 def make_matrix(num_row:int,
                 num_col:int,
-                entry_fn: callable[[int,int], float])-> Matrix:
+                entry_fn: Callable[[int,int], float])-> Matrix:
     return[[entry_fn(i,j)
            for j in range(num_col)]
            for i in range(num_row)]
