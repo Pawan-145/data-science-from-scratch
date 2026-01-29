@@ -63,6 +63,10 @@ All implementations are written from scratch to clearly understand the internal 
 
 ---
 
+---
+In `Cleaning` and `Munging` topic use `comma_delimited_stock_prices.csv` in example section.
+---
+
 ## 🛠 Libraries Used
 
 - math
@@ -82,3 +86,4 @@ All implementations are written from scratch to clearly understand the internal 
 - `ch-10_working_with_data` → Practice Code
 - `notes.md` → Theory + Explanations
 - `results.md` → Outcomes and Learnings
+- `comma_delimited_stock_prices.csv` → Comma delimated file of Stock Prices
