@@ -76,3 +76,9 @@ All implementations are written from scratch to clearly understand the internal 
 - dateutil
 
 ---
+
+## 📂 Files in This Folder
+
+- `ch-10_working_with_data` → Practice Code
+- `notes.md` → Theory + Explanations
+- `results.md` → Outcomes and Learnings
