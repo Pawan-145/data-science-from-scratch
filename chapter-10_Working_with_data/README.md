@@ -3,8 +3,6 @@
 This chapter focuses on understanding, visualizing, cleaning, and transforming data using Python.
 All implementations are written from scratch to clearly understand the internal logic of data science techniques.
 
-📘 Based on concepts from Data Science from Scratch.
-
 ---
 
 ## 📌 Topics Covered
@@ -63,7 +61,6 @@ All implementations are written from scratch to clearly understand the internal 
 
 ---
 
----
 In `Cleaning` and `Munging` topic use `comma_delimited_stock_prices.csv` in example section.
 ---
 
