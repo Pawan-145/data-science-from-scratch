@@ -116,10 +116,10 @@ To properly evaluate a model, always test it on data it has **never seen before*
 ---
 ## (Train-Validation-Test) Split
 
-Split the data into three parts: 
-(1) A training set for building models
-(2) A validation set for choosing among trained models
-(3) A test set for judging the final model.
+Split the data into three parts: <br>
+(1) A training set for building models <br>
+(2) A validation set for choosing among trained models <br>
+(3) A test set for judging the final model. <br>
 
 ---
 
