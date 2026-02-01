@@ -227,6 +227,7 @@ Useful when you need a tradeoff between both metrics.
 ## ⚖️ Bias–Variance Tradeoff
 
 One of the MOST important ideas in Machine Learning.
+![Bias_Variance Tradeoff](Bias_and_variance_tradeoff.jpg)
 
 Understanding this separates beginners from professionals.
 
