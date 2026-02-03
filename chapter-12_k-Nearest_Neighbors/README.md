@@ -7,9 +7,9 @@ The objective was to understand how models classify data based on similarity and
 ---
 
 ## 📂 Project Structure
-`ch12_k-Nearest_Neighbour.ipynb`
-`notes.md`
-`results.md`
+`ch12_k-Nearest_Neighbour.ipynb` <br>
+`notes.md` <br>
+`results.md` <br>
 
 ---
 
