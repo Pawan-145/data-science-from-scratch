@@ -45,7 +45,7 @@ Common strategies:
  - Use weighted voting based on distance
 
 ---
-###🔹 Distance Metrics
+### 🔹 Distance Metrics
 
 Distance measures similarity between data points.
 ## Euclidean Distance
@@ -56,14 +56,14 @@ def distance(v, w):
 ✔ Smaller distance → Higher similarity
 ✔ Larger distance → Lower similarity
 ---
-###🔹 Representing Labeled Data
+### 🔹 Representing Labeled Data
 Each observation is stored with its features and label.
 
 class LabeledPoint(NamedTuple):
     point: Vector
     label: str
 ---
-###🔹 Building the KNN Classifier
+### 🔹 Building the KNN Classifier
 Steps implemented:
 - Sort points by distance
 - Pick k nearest neighbors
@@ -83,7 +83,7 @@ def knn_classify(k, labeled_points, new_point):
 ```
 ---
 
-###🔹 Choosing the Right k
+### 🔹 Choosing the Right k
 
 Selecting k is critical.
 
@@ -97,7 +97,7 @@ Large k:
 
 👉 Odd values are often preferred to avoid ties.
 ---
-###🔹 Working with the Iris Dataset
+### 🔹 Working with the Iris Dataset
 
 The Iris dataset is one of the most famous datasets in machine learning.
 
@@ -114,7 +114,7 @@ Classes:
 
 This dataset is ideal for learning classification techniques.
 ---
-###🔹 Train-Test Split
+### 🔹 Train-Test Split
 To evaluate model performance properly:
 
 - Training set → Used to build the model
@@ -128,7 +128,7 @@ Typical split:
 Key lesson:
 Never evaluate a model on the data it was trained on.
 ---
-###🔹 Curse of Dimensionality
+### 🔹 Curse of Dimensionality
 
 As the number of dimensions increases:
 - Data points spread farther apart.
@@ -141,7 +141,7 @@ The difference between the nearest and farthest neighbor shrinks in high-dimensi
 👉 This weakens distance-based algorithms like KNN.
 ---
 
-###🔹 When to Use KNN
+### 🔹 When to Use KNN
 - Best suited for:
 - Small datasets
 - Low-dimensional data
