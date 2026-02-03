@@ -32,6 +32,7 @@ def raw_majority_vote(labels):
     votes = Counter(labels)
     winner, _ = votes.most_common(1)[0]
     return winner
+```
 
 ### Handling Ties
 
@@ -69,6 +70,7 @@ Steps implemented:
 - Extract labels
 - Apply majority vote
 
+```python
 def knn_classify(k, labeled_points, new_point):
     by_distance = sorted(
         labeled_points,
@@ -78,6 +80,7 @@ def knn_classify(k, labeled_points, new_point):
     k_nearest_labels = [lp.label for lp in by_distance[:k]]
 
     return majority_vote(k_nearest_labels)
+```
 ---
 
 ###🔹 Choosing the Right k
