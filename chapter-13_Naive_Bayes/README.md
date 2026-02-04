@@ -19,14 +19,11 @@ The chapter focuses on understanding probabilistic machine learning and applying
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
-chapter-13_Naive-Bayes/
-│── ch-13_Naive_Bayes.ipynb
-│── notes.md
-│── results.md
-│── README.md
-
+`ch-13_Naive_Bayes.ipynb` <br>
+`notes.md` <br>
+`results.md` <br>
 
 ---
 
