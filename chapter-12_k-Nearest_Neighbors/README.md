@@ -10,6 +10,7 @@ The objective was to understand how models classify data based on similarity and
 `ch12_k-Nearest_Neighbour.ipynb` <br>
 `notes.md` <br>
 `results.md` <br>
+`iris.data`
 
 ---
 
