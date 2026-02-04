@@ -19,9 +19,9 @@ It demonstrates how to model relationships between variables, minimize predictio
 ---
 
 ## 📂 Project Structure
-`ch14_Simple_Linear_Regression.ipynb`
-`notes.md`
-`results.md`
+- `ch14_Simple_Linear_Regression.ipynb`
+- `notes.md`
+- ` results.md`
 ---
 
 ## ⚙️ Technologies Used
