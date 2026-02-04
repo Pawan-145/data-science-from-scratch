@@ -163,7 +163,7 @@ Avoid when:
 ✔ Goal is minimizing squared error.  
 ✔ R² measures model quality.  
 ✔ Gradient Descent can learn parameters iteratively.  
-✔ Foundational algorithm for Machine Learning.
+✔ Foundational algorithm for Machine Learning. <br>
 ✔ Maximum Likelihood Estimation
 
 
