@@ -26,7 +26,7 @@ Unlike regression models that predict continuous values, classification models p
 - `ch16_Logistic_Regression.ipynb`
 - `notes.md`
 - `results.md`
-
+- `logistic_function.png`
 
 ---
 
