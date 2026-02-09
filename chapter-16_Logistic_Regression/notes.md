@@ -118,7 +118,7 @@ So we take the logarithm.
 
 ### Log-Likelihood:
 
-log L = yi log(σ(xβ)) + (1-yi) log(1-σ(xβ))
+`log L = yi log(σ(xβ)) + (1-yi) log(1-σ(xβ))`
 
 
 Since gradient descent **minimizes**, we instead minimize:
