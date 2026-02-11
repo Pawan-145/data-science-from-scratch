@@ -226,6 +226,7 @@ Single Tree:
 - High variance
 
 Random Forest:
+
 ✔ Reduces overfitting  
 ✔ Improves stability  
 ✔ Produces better predictions  
