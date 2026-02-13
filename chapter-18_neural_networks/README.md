@@ -60,6 +60,7 @@ Assertions verify correctness throughout the implementation.
 - `ch18_neural_networks`
 - `notes.md`
 - `results.md`
+- `sigmoid_function.png`
 
 ---
 
