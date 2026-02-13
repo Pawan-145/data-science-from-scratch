@@ -109,6 +109,8 @@ Neural networks require calculus for optimization.
 
 ### Sigmoid Function:
 
+![Sigmoid Function](sigmoid_function.png)
+
 `σ(t) = 1 / (1 + e⁻ᵗ)`
 
 
