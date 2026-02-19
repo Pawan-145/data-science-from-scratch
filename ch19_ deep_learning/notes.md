@@ -83,11 +83,11 @@ This abstraction makes networks modular and extensible.
 
 Applies sigmoid activation:
 
-σ(x) = 1 / (1 + e⁻ˣ)
+`σ(x) = 1 / (1 + e⁻ˣ)`
 
 Backward uses derivative:
 
-σ'(x) = σ(x)(1 − σ(x))
+`σ'(x) = σ(x)(1 − σ(x))`
 
 ---
 
@@ -168,10 +168,10 @@ Prevents:
 
 Update rule:
 
-v = momentum * v + (1 - momentum) * grad
+`v = momentum * v + (1 - momentum) * grad`
 
 
-param = param - lr * v
+`param = param - lr * v`
 
 
 ---
