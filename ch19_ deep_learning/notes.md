@@ -169,6 +169,8 @@ Prevents:
 Update rule:
 
 v = momentum * v + (1 - momentum) * grad
+
+
 param = param - lr * v
 
 
