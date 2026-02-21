@@ -35,7 +35,7 @@ Minimize:
 
 Total Squared Error (SSE)
 
-$\sum \text{distance}(\text{point}, \text{cluster\_mean})^2$
+`Σ distance(point, cluster_mean)^2`
 
 
 ---
