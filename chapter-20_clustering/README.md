@@ -118,6 +118,7 @@ We implemented clustering methods entirely from scratch, including:
 ## 2️⃣ Elbow Method
 
 Plots:
+![Elbow-Method](Choosing_k_Elbow_Method.png)
 
 Total Squared Error vs k
 
