@@ -83,6 +83,8 @@ Progress tracked using tqdm.
 
 # 🔹 Choosing K — Elbow Method
 
+![Elbow-Method](Choosing_k_Elbow_Method.png)
+
 We compute:
 
 Total Squared Error vs Number of Clusters
